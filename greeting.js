@@ -5,7 +5,6 @@ const greeting = document.querySelector(".js-greetings");
 //4번째 6번째
 const USER_LS = "currentUser",
   SHOWING_CN = "showing";
-
 //9번째
 function saveName(text) {
   localStorage.setItem(USER_LS, text);
@@ -37,7 +36,5 @@ function loadName() {
     paintGreeting(currentUser);
   }
 }
-
 //2번째로생성
-
 loadName();
