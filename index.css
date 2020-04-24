@@ -1,6 +1,9 @@
 body {
   background-color: beige;
 }
+.btn {
+  cursor: pointer;
+}
 
 body {
   color: chocolate;
@@ -8,10 +11,6 @@ body {
 
 .clicked {
   color: cornflowerblue;
-}
-
-.btn {
-  cursor: pointer;
 }
 
 .form,
