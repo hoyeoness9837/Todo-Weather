@@ -13,8 +13,8 @@ use VS code and open index.html file in Chrome browser.
 
 ## DEMO
 
-- ![DEMO](./client/public/assets/demo.gif)
-  ## Github Repo
-- [https://github.com/hoyeoness9837/Todo-Weather](https://github.com/hoyeoness9837/Todo-Weather)
-  ## Deployed URL
-- [https://hoyeoness9837.github.io/Todo-Weather/](https://hoyeoness9837.github.io/Todo-Weather/)
+![image](https://user-images.githubusercontent.com/58324084/87891737-d53af900-c9ef-11ea-8c9f-b2ab474a38ae.png)
+
+## Github Repo
+
+[https://github.com/hoyeoness9837/Todo-Weather](https://github.com/hoyeoness9837/Todo-Weather)
