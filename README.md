@@ -18,3 +18,6 @@ use VS code and open index.html file in Chrome browser.
 ## Github Repo
 
 [https://github.com/hoyeoness9837/Todo-Weather](https://github.com/hoyeoness9837/Todo-Weather)
+
+## Deployed URL
+[https://hoyeoness9837.github.io/Todo-Weather/](https://hoyeoness9837.github.io/Todo-Weather/)
